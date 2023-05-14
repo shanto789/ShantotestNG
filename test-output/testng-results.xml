@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-14T10:04:09Z" name="test Execution" finished-at="2023-05-14T10:04:26Z" duration-ms="17329">
+  <suite started-at="2023-05-14T16:28:33Z" name="test Execution" finished-at="2023-05-14T16:28:55Z" duration-ms="21853">
     <groups>
     </groups>
-    <test started-at="2023-05-14T10:04:09Z" name="Chrome Test" finished-at="2023-05-14T10:04:14Z" duration-ms="5617">
+    <test started-at="2023-05-14T16:28:33Z" name="Chrome Test" finished-at="2023-05-14T16:28:40Z" duration-ms="6751">
       <class name="smarttech.ny.hooks.CrossBrowser">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:smarttech.ny.hooks.CrossBrowser@6c4980d3]" started-at="2023-05-14T10:04:09Z" name="setUp" finished-at="2023-05-14T10:04:10Z" duration-ms="1109" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:smarttech.ny.hooks.CrossBrowser@6c4980d3]" started-at="2023-05-14T16:28:33Z" name="setUp" finished-at="2023-05-14T16:28:35Z" duration-ms="2248" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,19 +18,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testCase()[pri:0, instance:smarttech.ny.hooks.CrossBrowser@6c4980d3]" started-at="2023-05-14T10:04:10Z" name="testCase" finished-at="2023-05-14T10:04:14Z" duration-ms="4373" status="PASS">
+        <test-method signature="testCase()[pri:0, instance:smarttech.ny.hooks.CrossBrowser@6c4980d3]" started-at="2023-05-14T16:28:35Z" name="testCase" finished-at="2023-05-14T16:28:39Z" duration-ms="4267" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:smarttech.ny.hooks.CrossBrowser@6c4980d3]" started-at="2023-05-14T10:04:14Z" name="tearDown" finished-at="2023-05-14T10:04:14Z" duration-ms="117" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:smarttech.ny.hooks.CrossBrowser@6c4980d3]" started-at="2023-05-14T16:28:39Z" name="tearDown" finished-at="2023-05-14T16:28:40Z" duration-ms="215" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- smarttech.ny.hooks.CrossBrowser -->
     </test> <!-- Chrome Test -->
-    <test started-at="2023-05-14T10:04:15Z" name="Edge Test" finished-at="2023-05-14T10:04:19Z" duration-ms="4614">
+    <test started-at="2023-05-14T16:28:40Z" name="Edge Test" finished-at="2023-05-14T16:28:44Z" duration-ms="4752">
       <class name="smarttech.ny.hooks.CrossBrowser">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:smarttech.ny.hooks.CrossBrowser@d41f816]" started-at="2023-05-14T10:04:15Z" name="setUp" finished-at="2023-05-14T10:04:15Z" duration-ms="664" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:smarttech.ny.hooks.CrossBrowser@d41f816]" started-at="2023-05-14T16:28:40Z" name="setUp" finished-at="2023-05-14T16:28:40Z" duration-ms="842" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -41,19 +41,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testCase()[pri:0, instance:smarttech.ny.hooks.CrossBrowser@d41f816]" started-at="2023-05-14T10:04:15Z" name="testCase" finished-at="2023-05-14T10:04:19Z" duration-ms="3699" status="PASS">
+        <test-method signature="testCase()[pri:0, instance:smarttech.ny.hooks.CrossBrowser@d41f816]" started-at="2023-05-14T16:28:40Z" name="testCase" finished-at="2023-05-14T16:28:44Z" duration-ms="3615" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:smarttech.ny.hooks.CrossBrowser@d41f816]" started-at="2023-05-14T10:04:19Z" name="tearDown" finished-at="2023-05-14T10:04:19Z" duration-ms="250" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:smarttech.ny.hooks.CrossBrowser@d41f816]" started-at="2023-05-14T16:28:44Z" name="tearDown" finished-at="2023-05-14T16:28:44Z" duration-ms="292" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- smarttech.ny.hooks.CrossBrowser -->
     </test> <!-- Edge Test -->
-    <test started-at="2023-05-14T10:04:19Z" name="FireFox Test" finished-at="2023-05-14T10:04:26Z" duration-ms="7076">
+    <test started-at="2023-05-14T16:28:44Z" name="FireFox Test" finished-at="2023-05-14T16:28:55Z" duration-ms="10335">
       <class name="smarttech.ny.hooks.CrossBrowser">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:smarttech.ny.hooks.CrossBrowser@27216cd]" started-at="2023-05-14T10:04:19Z" name="setUp" finished-at="2023-05-14T10:04:21Z" duration-ms="1813" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:smarttech.ny.hooks.CrossBrowser@27216cd]" started-at="2023-05-14T16:28:44Z" name="setUp" finished-at="2023-05-14T16:28:48Z" duration-ms="3241" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -64,11 +64,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testCase()[pri:0, instance:smarttech.ny.hooks.CrossBrowser@27216cd]" started-at="2023-05-14T10:04:21Z" name="testCase" finished-at="2023-05-14T10:04:25Z" duration-ms="4556" status="PASS">
+        <test-method signature="testCase()[pri:0, instance:smarttech.ny.hooks.CrossBrowser@27216cd]" started-at="2023-05-14T16:28:48Z" name="testCase" finished-at="2023-05-14T16:28:54Z" duration-ms="6204" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:smarttech.ny.hooks.CrossBrowser@27216cd]" started-at="2023-05-14T10:04:25Z" name="tearDown" finished-at="2023-05-14T10:04:26Z" duration-ms="707" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:smarttech.ny.hooks.CrossBrowser@27216cd]" started-at="2023-05-14T16:28:54Z" name="tearDown" finished-at="2023-05-14T16:28:55Z" duration-ms="888" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
